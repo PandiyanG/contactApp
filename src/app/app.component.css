@@ -1,0 +1,32 @@
+.individual-card
+{
+    margin-top:10px;
+    margin-bottom:10px;
+    box-shadow: 2px 0px 14px 2px #00000036;
+    min-height:120px;
+    max-height:120px;
+    border-radius: 10px;
+    padding-left:10px;
+}
+.delete_this
+{
+  padding:5px;
+  text-align:right;
+  
+}
+.delete_this:hover
+{
+  cursor:pointer;
+  
+}
+.edit_this
+{
+  padding:5px;
+  text-align:left;
+  
+}
+.edit_this:hover
+{
+  cursor:pointer;
+  
+}
